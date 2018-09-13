@@ -1,6 +1,6 @@
 # test-project
 
-> A Vue.js project
+> This Vue.js project is a ticketing system that reduces a display total tickes and displays the price of tickets purchased.
 
 ## Build Setup
 
